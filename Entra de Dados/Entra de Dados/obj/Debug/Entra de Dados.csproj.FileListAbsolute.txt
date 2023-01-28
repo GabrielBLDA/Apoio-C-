@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Entra de Dados\Entra de Dados\obj\Debug\Entra de Dados.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Entra de Dados\Entra de Dados\obj\Debug\Entra de Dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Entra de Dados\Entra de Dados\obj\Debug\Entra de Dados.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Entra de Dados\Entra de Dados\bin\Debug\Entra de Dados.exe.config
+C:\Users\klebe\Desktop\C#\Entra de Dados\Entra de Dados\bin\Debug\Entra de Dados.exe
+C:\Users\klebe\Desktop\C#\Entra de Dados\Entra de Dados\bin\Debug\Entra de Dados.pdb
+C:\Users\klebe\Desktop\C#\Entra de Dados\Entra de Dados\obj\Debug\Entra de Dados.exe
+C:\Users\klebe\Desktop\C#\Entra de Dados\Entra de Dados\obj\Debug\Entra de Dados.pdb
