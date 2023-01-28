@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\ImprimindoTexdtos\ImprimindoTexdtos\obj\Debug\ImprimindoTexdtos.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\ImprimindoTexdtos\ImprimindoTexdtos\obj\Debug\ImprimindoTexdtos.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\ImprimindoTexdtos\ImprimindoTexdtos\obj\Debug\ImprimindoTexdtos.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\ImprimindoTexdtos\ImprimindoTexdtos\bin\Debug\ImprimindoTextos.exe.config
+C:\Users\klebe\Desktop\C#\ImprimindoTexdtos\ImprimindoTexdtos\bin\Debug\ImprimindoTextos.exe
+C:\Users\klebe\Desktop\C#\ImprimindoTexdtos\ImprimindoTexdtos\bin\Debug\ImprimindoTextos.pdb
+C:\Users\klebe\Desktop\C#\ImprimindoTexdtos\ImprimindoTexdtos\obj\Debug\ImprimindoTextos.exe
+C:\Users\klebe\Desktop\C#\ImprimindoTexdtos\ImprimindoTexdtos\obj\Debug\ImprimindoTextos.pdb
