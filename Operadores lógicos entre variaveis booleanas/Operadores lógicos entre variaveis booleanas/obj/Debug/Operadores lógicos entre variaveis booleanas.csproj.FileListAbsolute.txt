@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis booleanas\Operadores lógicos entre variaveis booleanas\bin\Debug\Operadores lógicos entre variaveis booleanas.exe.config
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis booleanas\Operadores lógicos entre variaveis booleanas\bin\Debug\Operadores lógicos entre variaveis booleanas.exe
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis booleanas\Operadores lógicos entre variaveis booleanas\bin\Debug\Operadores lógicos entre variaveis booleanas.pdb
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis booleanas\Operadores lógicos entre variaveis booleanas\obj\Debug\Operadores lógicos entre variaveis booleanas.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis booleanas\Operadores lógicos entre variaveis booleanas\obj\Debug\Operadores lógicos entre variaveis booleanas.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis booleanas\Operadores lógicos entre variaveis booleanas\obj\Debug\Operadores lógicos entre variaveis booleanas.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis booleanas\Operadores lógicos entre variaveis booleanas\obj\Debug\Operadores lógicos entre variaveis booleanas.exe
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis booleanas\Operadores lógicos entre variaveis booleanas\obj\Debug\Operadores lógicos entre variaveis booleanas.pdb
