@@ -28,13 +28,15 @@ namespace Primeiro_Projeto
             Console.WriteLine("Informe o Seu Genero: Pressione F para feminino e M para masculino");
             string Genero = Console.ReadKey(true).KeyChar.ToString(); //Estudar mais Esta Linha de Código
 
-
             Console.WriteLine("Olá " + Nome);
             Console.WriteLine("Voce tem: " + Idade + " Anos");
             Console.WriteLine("O Numero do documento informado é: " + Documento);
             Console.WriteLine("O nome da sua rua é: " + NomeDaRua);
             Console.WriteLine("o Numero da sua casa é: " + NumeroCasa);
-            Console.WriteLine("O seu genero é: " + Genero);
+
+            if (Genero == "f"){ Console.WriteLine("O seu genero é: Feminino");}
+            if (Genero == "m"){Console.WriteLine("O seu genero é: Masculino");} 
+            if (Genero != "f" && Genero != "m") { Console.WriteLine("O genero escolhido não é compativel"); }
 
             Console.WriteLine("Pressione Qualquer Tecla para Encerrar");
             Console.ReadKey();
