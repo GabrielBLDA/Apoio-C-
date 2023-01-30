@@ -37,7 +37,7 @@ namespace Operadores_lógicos_entre_variaveis_numericas
 
             Console.Write("\r\n");
 
-            //Operador ->  > e < 
+            //Operador maior que e menor que ->  > e < 
             int var4 = 10;
             int var5 = 20;
             Console.WriteLine("O valor de " + var4 + " é > " + var5 + "?: " + (var4 > var5));
@@ -47,7 +47,7 @@ namespace Operadores_lógicos_entre_variaveis_numericas
 
             Console.Write("\r\n");
 
-            //Operador -> >= e <=
+            //Operador maior igual a ou menor igual a-> >= e <=
             Console.WriteLine("O valor de " + var4 + " é >= " + var5 + "?: " + (var4 >= var5));
             Console.WriteLine("O valor de " + var5 + " é >= " + var4 + "?: " + (var5 >= var4));
             Console.WriteLine("O valor de " + var4 + " é <= " + var5 + "?: " + (var4 <= var5));
