@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis numericas\Operadores lógicos entre variaveis numericas\bin\Debug\Operadores lógicos entre variaveis numericas.exe.config
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis numericas\Operadores lógicos entre variaveis numericas\bin\Debug\Operadores lógicos entre variaveis numericas.exe
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis numericas\Operadores lógicos entre variaveis numericas\bin\Debug\Operadores lógicos entre variaveis numericas.pdb
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis numericas\Operadores lógicos entre variaveis numericas\obj\Debug\Operadores lógicos entre variaveis numericas.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis numericas\Operadores lógicos entre variaveis numericas\obj\Debug\Operadores lógicos entre variaveis numericas.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis numericas\Operadores lógicos entre variaveis numericas\obj\Debug\Operadores lógicos entre variaveis numericas.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis numericas\Operadores lógicos entre variaveis numericas\obj\Debug\Operadores lógicos entre variaveis numericas.exe
+C:\Users\klebe\Desktop\C#\Operadores lógicos entre variaveis numericas\Operadores lógicos entre variaveis numericas\obj\Debug\Operadores lógicos entre variaveis numericas.pdb
