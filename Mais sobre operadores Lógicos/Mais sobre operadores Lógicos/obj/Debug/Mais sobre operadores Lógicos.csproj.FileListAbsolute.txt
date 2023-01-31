@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Mais sobre operadores Lógicos\Mais sobre operadores Lógicos\bin\Debug\Mais sobre operadores Lógicos.exe.config
+C:\Users\klebe\Desktop\C#\Mais sobre operadores Lógicos\Mais sobre operadores Lógicos\bin\Debug\Mais sobre operadores Lógicos.exe
+C:\Users\klebe\Desktop\C#\Mais sobre operadores Lógicos\Mais sobre operadores Lógicos\bin\Debug\Mais sobre operadores Lógicos.pdb
+C:\Users\klebe\Desktop\C#\Mais sobre operadores Lógicos\Mais sobre operadores Lógicos\obj\Debug\Mais sobre operadores Lógicos.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Mais sobre operadores Lógicos\Mais sobre operadores Lógicos\obj\Debug\Mais sobre operadores Lógicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Mais sobre operadores Lógicos\Mais sobre operadores Lógicos\obj\Debug\Mais sobre operadores Lógicos.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Mais sobre operadores Lógicos\Mais sobre operadores Lógicos\obj\Debug\Mais sobre operadores Lógicos.exe
+C:\Users\klebe\Desktop\C#\Mais sobre operadores Lógicos\Mais sobre operadores Lógicos\obj\Debug\Mais sobre operadores Lógicos.pdb

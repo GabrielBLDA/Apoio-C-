@@ -61,6 +61,7 @@ namespace Operadores_lógicos_entre_variaveis_numericas
             bool resultadoIgual = (var4 == var4);
             Console.WriteLine("O valor de " + var4 + " é igual a " + var4 + "?: " + resultadoIgual);
             Console.WriteLine("O valor de " + var4 + " é igual a " + var5 + "?: " + (var4==var5));
+
             Console.ReadKey();
 
         }
