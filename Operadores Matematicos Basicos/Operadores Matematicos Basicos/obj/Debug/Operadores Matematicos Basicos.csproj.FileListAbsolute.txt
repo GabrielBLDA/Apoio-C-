@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Operadores Matematicos Basicos\Operadores Matematicos Basicos\obj\Debug\Operadores Matematicos Basicos.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Operadores Matematicos Basicos\Operadores Matematicos Basicos\obj\Debug\Operadores Matematicos Basicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Operadores Matematicos Basicos\Operadores Matematicos Basicos\obj\Debug\Operadores Matematicos Basicos.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Operadores Matematicos Basicos\Operadores Matematicos Basicos\bin\Debug\Operadores Matematicos Basicos.exe.config
+C:\Users\klebe\Desktop\C#\Operadores Matematicos Basicos\Operadores Matematicos Basicos\bin\Debug\Operadores Matematicos Basicos.exe
+C:\Users\klebe\Desktop\C#\Operadores Matematicos Basicos\Operadores Matematicos Basicos\bin\Debug\Operadores Matematicos Basicos.pdb
+C:\Users\klebe\Desktop\C#\Operadores Matematicos Basicos\Operadores Matematicos Basicos\obj\Debug\Operadores Matematicos Basicos.exe
+C:\Users\klebe\Desktop\C#\Operadores Matematicos Basicos\Operadores Matematicos Basicos\obj\Debug\Operadores Matematicos Basicos.pdb
