@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Estrura de Decisao\Estrura de Decisao\bin\Debug\Estrura de Decisao.exe.config
+C:\Users\klebe\Desktop\C#\Estrura de Decisao\Estrura de Decisao\bin\Debug\Estrura de Decisao.exe
+C:\Users\klebe\Desktop\C#\Estrura de Decisao\Estrura de Decisao\bin\Debug\Estrura de Decisao.pdb
+C:\Users\klebe\Desktop\C#\Estrura de Decisao\Estrura de Decisao\obj\Debug\Estrura de Decisao.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Estrura de Decisao\Estrura de Decisao\obj\Debug\Estrura de Decisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Estrura de Decisao\Estrura de Decisao\obj\Debug\Estrura de Decisao.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Estrura de Decisao\Estrura de Decisao\obj\Debug\Estrura de Decisao.exe
+C:\Users\klebe\Desktop\C#\Estrura de Decisao\Estrura de Decisao\obj\Debug\Estrura de Decisao.pdb
