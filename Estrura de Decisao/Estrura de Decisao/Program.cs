@@ -45,8 +45,6 @@ namespace Estrura_de_Decisao
             }
 
 
-            
-
             Console.WriteLine("Pressione uma tecla do seu teclado");
             char tecla = Console.ReadKey(true).KeyChar;
             //switch(comutador)
