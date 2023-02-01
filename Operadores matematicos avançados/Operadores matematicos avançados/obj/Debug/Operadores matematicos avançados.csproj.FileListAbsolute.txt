@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Operadores matematicos avançados\Operadores matematicos avançados\bin\Debug\Operadores matematicos avançados.exe.config
+C:\Users\klebe\Desktop\C#\Operadores matematicos avançados\Operadores matematicos avançados\bin\Debug\Operadores matematicos avançados.exe
+C:\Users\klebe\Desktop\C#\Operadores matematicos avançados\Operadores matematicos avançados\bin\Debug\Operadores matematicos avançados.pdb
+C:\Users\klebe\Desktop\C#\Operadores matematicos avançados\Operadores matematicos avançados\obj\Debug\Operadores matematicos avançados.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Operadores matematicos avançados\Operadores matematicos avançados\obj\Debug\Operadores matematicos avançados.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Operadores matematicos avançados\Operadores matematicos avançados\obj\Debug\Operadores matematicos avançados.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Operadores matematicos avançados\Operadores matematicos avançados\obj\Debug\Operadores matematicos avançados.exe
+C:\Users\klebe\Desktop\C#\Operadores matematicos avançados\Operadores matematicos avançados\obj\Debug\Operadores matematicos avançados.pdb
