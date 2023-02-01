@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Tipos de Data Time\Tipos de Data Time\obj\Debug\Tipos de Data Time.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Tipos de Data Time\Tipos de Data Time\obj\Debug\Tipos de Data Time.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Tipos de Data Time\Tipos de Data Time\obj\Debug\Tipos de Data Time.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Tipos de Data Time\Tipos de Data Time\bin\Debug\Tipos de Data Time.exe.config
+C:\Users\klebe\Desktop\C#\Tipos de Data Time\Tipos de Data Time\bin\Debug\Tipos de Data Time.exe
+C:\Users\klebe\Desktop\C#\Tipos de Data Time\Tipos de Data Time\bin\Debug\Tipos de Data Time.pdb
+C:\Users\klebe\Desktop\C#\Tipos de Data Time\Tipos de Data Time\obj\Debug\Tipos de Data Time.exe
+C:\Users\klebe\Desktop\C#\Tipos de Data Time\Tipos de Data Time\obj\Debug\Tipos de Data Time.pdb
