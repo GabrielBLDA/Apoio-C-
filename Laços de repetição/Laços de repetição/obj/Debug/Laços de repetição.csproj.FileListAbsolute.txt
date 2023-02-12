@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Laços de repetição\Laços de repetição\obj\Debug\Laços de repetição.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Laços de repetição\Laços de repetição\obj\Debug\Laços de repetição.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Laços de repetição\Laços de repetição\obj\Debug\Laços de repetição.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Laços de repetição\Laços de repetição\bin\Debug\Laços de repetição.exe.config
+C:\Users\klebe\Desktop\C#\Laços de repetição\Laços de repetição\bin\Debug\Laços de repetição.exe
+C:\Users\klebe\Desktop\C#\Laços de repetição\Laços de repetição\bin\Debug\Laços de repetição.pdb
+C:\Users\klebe\Desktop\C#\Laços de repetição\Laços de repetição\obj\Debug\Laços de repetição.exe
+C:\Users\klebe\Desktop\C#\Laços de repetição\Laços de repetição\obj\Debug\Laços de repetição.pdb
