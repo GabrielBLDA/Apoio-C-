@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\laço de repetição - break e continue\laço de repetição - break e continue\bin\Debug\laço de repetição - break e continue.exe.config
+C:\Users\klebe\Desktop\C#\laço de repetição - break e continue\laço de repetição - break e continue\bin\Debug\laço de repetição - break e continue.exe
+C:\Users\klebe\Desktop\C#\laço de repetição - break e continue\laço de repetição - break e continue\bin\Debug\laço de repetição - break e continue.pdb
+C:\Users\klebe\Desktop\C#\laço de repetição - break e continue\laço de repetição - break e continue\obj\Debug\laço de repetição - break e continue.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\laço de repetição - break e continue\laço de repetição - break e continue\obj\Debug\laço de repetição - break e continue.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\laço de repetição - break e continue\laço de repetição - break e continue\obj\Debug\laço de repetição - break e continue.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\laço de repetição - break e continue\laço de repetição - break e continue\obj\Debug\laço de repetição - break e continue.exe
+C:\Users\klebe\Desktop\C#\laço de repetição - break e continue\laço de repetição - break e continue\obj\Debug\laço de repetição - break e continue.pdb
