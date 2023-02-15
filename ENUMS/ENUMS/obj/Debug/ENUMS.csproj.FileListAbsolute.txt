@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\ENUMS\ENUMS\bin\Debug\ENUMS.exe.config
+C:\Users\klebe\Desktop\C#\ENUMS\ENUMS\bin\Debug\ENUMS.exe
+C:\Users\klebe\Desktop\C#\ENUMS\ENUMS\bin\Debug\ENUMS.pdb
+C:\Users\klebe\Desktop\C#\ENUMS\ENUMS\obj\Debug\ENUMS.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\ENUMS\ENUMS\obj\Debug\ENUMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\ENUMS\ENUMS\obj\Debug\ENUMS.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\ENUMS\ENUMS\obj\Debug\ENUMS.exe
+C:\Users\klebe\Desktop\C#\ENUMS\ENUMS\obj\Debug\ENUMS.pdb
