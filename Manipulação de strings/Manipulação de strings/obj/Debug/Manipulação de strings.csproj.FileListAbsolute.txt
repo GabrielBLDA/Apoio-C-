@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Manipulação de strings\Manipulação de strings\bin\Debug\Manipulação de strings.exe.config
+C:\Users\klebe\Desktop\C#\Manipulação de strings\Manipulação de strings\bin\Debug\Manipulação de strings.exe
+C:\Users\klebe\Desktop\C#\Manipulação de strings\Manipulação de strings\bin\Debug\Manipulação de strings.pdb
+C:\Users\klebe\Desktop\C#\Manipulação de strings\Manipulação de strings\obj\Debug\Manipulação de strings.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Manipulação de strings\Manipulação de strings\obj\Debug\Manipulação de strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Manipulação de strings\Manipulação de strings\obj\Debug\Manipulação de strings.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Manipulação de strings\Manipulação de strings\obj\Debug\Manipulação de strings.exe
+C:\Users\klebe\Desktop\C#\Manipulação de strings\Manipulação de strings\obj\Debug\Manipulação de strings.pdb
