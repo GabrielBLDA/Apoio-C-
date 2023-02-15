@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Terceiro_Projeto\Terceiro_Projeto\bin\Debug\Terceiro_Projeto.exe.config
+C:\Users\klebe\Desktop\C#\Terceiro_Projeto\Terceiro_Projeto\bin\Debug\Terceiro_Projeto.exe
+C:\Users\klebe\Desktop\C#\Terceiro_Projeto\Terceiro_Projeto\bin\Debug\Terceiro_Projeto.pdb
+C:\Users\klebe\Desktop\C#\Terceiro_Projeto\Terceiro_Projeto\obj\Debug\Terceiro_Projeto.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Terceiro_Projeto\Terceiro_Projeto\obj\Debug\Terceiro_Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Terceiro_Projeto\Terceiro_Projeto\obj\Debug\Terceiro_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Terceiro_Projeto\Terceiro_Projeto\obj\Debug\Terceiro_Projeto.exe
+C:\Users\klebe\Desktop\C#\Terceiro_Projeto\Terceiro_Projeto\obj\Debug\Terceiro_Projeto.pdb
