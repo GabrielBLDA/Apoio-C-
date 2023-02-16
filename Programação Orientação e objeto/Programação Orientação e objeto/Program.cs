@@ -56,16 +56,29 @@ namespace Programação_Orientação_e_objeto
         {
             if (carroLigado == true)
             {
-
+                velocidade = velocidadeFinal;
+                Console.WriteLine($"A velocidade do carro da marca {marca} e do modelo {modelo} é: {velocidade}");
             }
-            velocidade = velocidadeFinal;
-            Console.WriteLine($"A velocidade do carro da marca {marca} e do modelo {modelo} é: {velocidade}");
+           else
+            {
+                Console.WriteLine("A velocidade do carro da marca {marca} e do modelo {modelo} esta desligado!");
+            }
         }
 
         public void PararCarro()
         {
-            velocidade = 0;
-            Console.WriteLine($"o carro da marca {marca} e do modelo {modelo} esta parado");
+            if(velocidade == 0)
+            {
+                Console.WriteLine($"o carro da marca {marca} e do modelo {modelo} já esta parado");
+
+            }
+            else
+            {
+                velocidade = 0;
+                Console.WriteLine($"o carro da marca {marca} e do modelo {modelo} esta parado");
+            }
+            
+           
         }
 
 
@@ -74,6 +87,24 @@ namespace Programação_Orientação_e_objeto
     {
         static void Main(string[] args)
         {
+            Carro hondaFit = new Carro(); //criação de um objeto
+            hondaFit.Marca = "HONDA";
+            hondaFit.Modelo = "FIT";
+            hondaFit.LigarCarro();
+            hondaFit.AcelerarCarro(80);
+            hondaFit.PararCarro();
+            hondaFit.DesligarCarro();
+
+            Carro FiatUno = new Carro(); //criação de outro objeto
+            FiatUno.Marca = "Fiat";
+            FiatUno.Modelo = "Uno";
+            FiatUno.AcelerarCarro(80);
+            FiatUno.LigarCarro();
+            FiatUno.AcelerarCarro(80);
+            FiatUno.PararCarro();
+            FiatUno.DesligarCarro();
+
+            Console.ReadKey();
         }
     }
 }
