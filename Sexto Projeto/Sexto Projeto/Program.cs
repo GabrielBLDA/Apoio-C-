@@ -171,7 +171,6 @@ namespace Quinto_Projeto
             
             catch (Exception e)
             {
-
                 Console.WriteLine($"excecao: {e.Message}");
             }
         }
