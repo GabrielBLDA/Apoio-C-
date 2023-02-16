@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\STRUCTS\STRUCTS\bin\Debug\STRUCTS.exe.config
+C:\Users\klebe\Desktop\C#\STRUCTS\STRUCTS\bin\Debug\STRUCTS.exe
+C:\Users\klebe\Desktop\C#\STRUCTS\STRUCTS\bin\Debug\STRUCTS.pdb
+C:\Users\klebe\Desktop\C#\STRUCTS\STRUCTS\obj\Debug\STRUCTS.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\STRUCTS\STRUCTS\obj\Debug\STRUCTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\STRUCTS\STRUCTS\obj\Debug\STRUCTS.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\STRUCTS\STRUCTS\obj\Debug\STRUCTS.exe
+C:\Users\klebe\Desktop\C#\STRUCTS\STRUCTS\obj\Debug\STRUCTS.pdb
