@@ -55,7 +55,7 @@ namespace Fila_e_Pilha
 
             //Espiar elementos na stack/ "Pilha"
             nomeEspiada = PilhaDeNomes.Peek();
-            Console.WriteLine(nomeEspiada);
+            Console.WriteLine(nomeEspiada); 
 
 
 

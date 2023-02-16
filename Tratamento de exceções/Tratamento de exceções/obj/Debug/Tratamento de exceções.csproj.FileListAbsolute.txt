@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Tratamento de exceções\Tratamento de exceções\bin\Debug\Tratamento de exceções.exe.config
+C:\Users\klebe\Desktop\C#\Tratamento de exceções\Tratamento de exceções\bin\Debug\Tratamento de exceções.exe
+C:\Users\klebe\Desktop\C#\Tratamento de exceções\Tratamento de exceções\bin\Debug\Tratamento de exceções.pdb
+C:\Users\klebe\Desktop\C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.exe
+C:\Users\klebe\Desktop\C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.pdb
