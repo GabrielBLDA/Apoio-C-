@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Fila e Pilha\Fila e Pilha\bin\Debug\Fila e Pilha.exe.config
+C:\Users\klebe\Desktop\C#\Fila e Pilha\Fila e Pilha\bin\Debug\Fila e Pilha.exe
+C:\Users\klebe\Desktop\C#\Fila e Pilha\Fila e Pilha\bin\Debug\Fila e Pilha.pdb
+C:\Users\klebe\Desktop\C#\Fila e Pilha\Fila e Pilha\obj\Debug\Fila e Pilha.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Fila e Pilha\Fila e Pilha\obj\Debug\Fila e Pilha.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Fila e Pilha\Fila e Pilha\obj\Debug\Fila e Pilha.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Fila e Pilha\Fila e Pilha\obj\Debug\Fila e Pilha.exe
+C:\Users\klebe\Desktop\C#\Fila e Pilha\Fila e Pilha\obj\Debug\Fila e Pilha.pdb
