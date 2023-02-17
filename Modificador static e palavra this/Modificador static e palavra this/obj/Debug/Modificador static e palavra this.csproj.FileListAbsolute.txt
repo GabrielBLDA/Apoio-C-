@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Modificador static e palavra this\Modificador static e palavra this\bin\Debug\Modificador static e palavra this.exe.config
+C:\Users\klebe\Desktop\C#\Modificador static e palavra this\Modificador static e palavra this\bin\Debug\Modificador static e palavra this.exe
+C:\Users\klebe\Desktop\C#\Modificador static e palavra this\Modificador static e palavra this\bin\Debug\Modificador static e palavra this.pdb
+C:\Users\klebe\Desktop\C#\Modificador static e palavra this\Modificador static e palavra this\obj\Debug\Modificador static e palavra this.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Modificador static e palavra this\Modificador static e palavra this\obj\Debug\Modificador static e palavra this.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Modificador static e palavra this\Modificador static e palavra this\obj\Debug\Modificador static e palavra this.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Modificador static e palavra this\Modificador static e palavra this\obj\Debug\Modificador static e palavra this.exe
+C:\Users\klebe\Desktop\C#\Modificador static e palavra this\Modificador static e palavra this\obj\Debug\Modificador static e palavra this.pdb

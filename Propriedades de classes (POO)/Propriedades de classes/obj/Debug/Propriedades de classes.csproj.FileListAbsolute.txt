@@ -1,0 +1,8 @@
+C:\Users\CANCI\source\repos\Propriedades de classes\Propriedades de classes\bin\Debug\Propriedades de classes.exe.config
+C:\Users\CANCI\source\repos\Propriedades de classes\Propriedades de classes\bin\Debug\Propriedades de classes.exe
+C:\Users\CANCI\source\repos\Propriedades de classes\Propriedades de classes\bin\Debug\Propriedades de classes.pdb
+C:\Users\CANCI\source\repos\Propriedades de classes\Propriedades de classes\obj\Debug\Propriedades de classes.csproj.AssemblyReference.cache
+C:\Users\CANCI\source\repos\Propriedades de classes\Propriedades de classes\obj\Debug\Propriedades de classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\CANCI\source\repos\Propriedades de classes\Propriedades de classes\obj\Debug\Propriedades de classes.csproj.CoreCompileInputs.cache
+C:\Users\CANCI\source\repos\Propriedades de classes\Propriedades de classes\obj\Debug\Propriedades de classes.exe
+C:\Users\CANCI\source\repos\Propriedades de classes\Propriedades de classes\obj\Debug\Propriedades de classes.pdb
