@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Metodos de Classes\Metodos de Classes\bin\Debug\Metodos de Classes.exe.config
+C:\Users\klebe\Desktop\C#\Metodos de Classes\Metodos de Classes\bin\Debug\Metodos de Classes.exe
+C:\Users\klebe\Desktop\C#\Metodos de Classes\Metodos de Classes\bin\Debug\Metodos de Classes.pdb
+C:\Users\klebe\Desktop\C#\Metodos de Classes\Metodos de Classes\obj\Debug\Metodos de Classes.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Metodos de Classes\Metodos de Classes\obj\Debug\Metodos de Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Metodos de Classes\Metodos de Classes\obj\Debug\Metodos de Classes.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Metodos de Classes\Metodos de Classes\obj\Debug\Metodos de Classes.exe
+C:\Users\klebe\Desktop\C#\Metodos de Classes\Metodos de Classes\obj\Debug\Metodos de Classes.pdb
