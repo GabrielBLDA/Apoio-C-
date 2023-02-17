@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Programação Orientação e objeto\Programação Orientação e objeto\bin\Debug\Programação Orientação e objeto.exe.config
+C:\Users\klebe\Desktop\C#\Programação Orientação e objeto\Programação Orientação e objeto\bin\Debug\Programação Orientação e objeto.exe
+C:\Users\klebe\Desktop\C#\Programação Orientação e objeto\Programação Orientação e objeto\bin\Debug\Programação Orientação e objeto.pdb
+C:\Users\klebe\Desktop\C#\Programação Orientação e objeto\Programação Orientação e objeto\obj\Debug\Programação Orientação e objeto.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Programação Orientação e objeto\Programação Orientação e objeto\obj\Debug\Programação Orientação e objeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Programação Orientação e objeto\Programação Orientação e objeto\obj\Debug\Programação Orientação e objeto.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Programação Orientação e objeto\Programação Orientação e objeto\obj\Debug\Programação Orientação e objeto.exe
+C:\Users\klebe\Desktop\C#\Programação Orientação e objeto\Programação Orientação e objeto\obj\Debug\Programação Orientação e objeto.pdb
