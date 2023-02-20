@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{98F92AC3-8606-4D17-807E-CA1F66C6D0BC}</ProjectGuid>
+    <ProjectGuid>{9DC5BE5F-1793-4537-9BBC-7C5A131AD434}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Oitavo_Projeto</RootNamespace>
-    <AssemblyName>Oitavo Projeto</AssemblyName>
+    <RootNamespace>Heranças_e_classes</RootNamespace>
+    <AssemblyName>Heranças e classes</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseDeDados.cs" />
-    <Compile Include="CadastroPessoa.cs" />
-    <Compile Include="InterfaceGrafica.cs" />
+    <Compile Include="ClasseFilha.cs" />
+    <Compile Include="ClasseMae.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

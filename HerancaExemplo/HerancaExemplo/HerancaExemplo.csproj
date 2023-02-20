@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{98F92AC3-8606-4D17-807E-CA1F66C6D0BC}</ProjectGuid>
+    <ProjectGuid>{27F159A7-74FE-49E6-94E3-392B876BD536}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Oitavo_Projeto</RootNamespace>
-    <AssemblyName>Oitavo Projeto</AssemblyName>
+    <RootNamespace>HerancaExemplo</RootNamespace>
+    <AssemblyName>HerancaExemplo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseDeDados.cs" />
-    <Compile Include="CadastroPessoa.cs" />
-    <Compile Include="InterfaceGrafica.cs" />
+    <Compile Include="Avião.cs" />
+    <Compile Include="Carro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Veiculo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

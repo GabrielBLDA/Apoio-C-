@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\Heranças e classes\Heranças e classes\bin\Debug\Heranças e classes.exe.config
+C:\Users\klebe\Desktop\C#\Heranças e classes\Heranças e classes\bin\Debug\Heranças e classes.exe
+C:\Users\klebe\Desktop\C#\Heranças e classes\Heranças e classes\bin\Debug\Heranças e classes.pdb
+C:\Users\klebe\Desktop\C#\Heranças e classes\Heranças e classes\obj\Debug\Heranças e classes.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\Heranças e classes\Heranças e classes\obj\Debug\Heranças e classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\Heranças e classes\Heranças e classes\obj\Debug\Heranças e classes.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\Heranças e classes\Heranças e classes\obj\Debug\Heranças e classes.exe
+C:\Users\klebe\Desktop\C#\Heranças e classes\Heranças e classes\obj\Debug\Heranças e classes.pdb

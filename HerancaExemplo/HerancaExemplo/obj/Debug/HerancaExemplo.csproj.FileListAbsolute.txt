@@ -1,0 +1,8 @@
+C:\Users\klebe\Desktop\C#\HerancaExemplo\HerancaExemplo\bin\Debug\HerancaExemplo.exe.config
+C:\Users\klebe\Desktop\C#\HerancaExemplo\HerancaExemplo\bin\Debug\HerancaExemplo.exe
+C:\Users\klebe\Desktop\C#\HerancaExemplo\HerancaExemplo\bin\Debug\HerancaExemplo.pdb
+C:\Users\klebe\Desktop\C#\HerancaExemplo\HerancaExemplo\obj\Debug\HerancaExemplo.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\C#\HerancaExemplo\HerancaExemplo\obj\Debug\HerancaExemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\klebe\Desktop\C#\HerancaExemplo\HerancaExemplo\obj\Debug\HerancaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\C#\HerancaExemplo\HerancaExemplo\obj\Debug\HerancaExemplo.exe
+C:\Users\klebe\Desktop\C#\HerancaExemplo\HerancaExemplo\obj\Debug\HerancaExemplo.pdb
